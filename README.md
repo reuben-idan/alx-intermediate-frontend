@@ -213,17 +213,17 @@ code .
 | Exercise                 | Status    | Completion Date |
 | ------------------------ | --------- | --------------- |
 | **0x00 - Semantic HTML** |           |                 |
-| 0-index.html             | Completed | 2024            |
-| 1-index.html             | Completed | 2024            |
-| 2-index.html             | Completed | 2024            |
-| 3-index.html             | Completed | 2024            |
+| 0-index.html             | Completed | 2025            |
+| 1-index.html             | Completed | 2025            |
+| 2-index.html             | Completed | 2025            |
+| 3-index.html             | Completed | 2025            |
 | **0x02 - Tailwind CSS**  |           |                 |
-| 1-index.html             | Completed | 2024            |
-| 2-index.html             | Completed | 2024            |
-| 3-nav_index.html         | Completed | 2024            |
-| 4-flexbox_index.html     | Completed | 2024            |
-| 5-gridflex_index.html    | Completed | 2024            |
-| 6-imageGallery.html      | Completed | 2024            |
+| 1-index.html             | Completed | 2025            |
+| 2-index.html             | Completed | 2025            |
+| 3-nav_index.html         | Completed | 2025            |
+| 4-flexbox_index.html     | Completed | 2025            |
+| 5-gridflex_index.html    | Completed | 2025            |
+| 6-imageGallery.html      | Completed | 2025            |
 
 ## Contributing
 
